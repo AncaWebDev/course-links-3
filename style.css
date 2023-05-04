@@ -1,0 +1,53 @@
+body{
+	background-image: linear-gradient(to right, rgb(242, 109, 249), rgb(81, 88, 187));
+}
+
+a{
+	text-decoration: none;
+}
+
+h1, h3{
+	font-family: Oswald,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    line-height: 1.1;
+    font-weight: bold;
+}
+
+.heading-text{
+	color: #F7F7FF;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.accordion{
+	background-color: #F7F7FF;
+}
+
+.title{
+	padding-top: 5em;
+}
+
+.card{
+	margin: 80px;
+}
+
+.nav-pills{
+	justify-content: center;
+	padding: 20px;
+}
+
+.links{
+	padding: 20px;
+}
+
+.accordion-title, .week-title{
+	color: black;
+	line-height: 2em;
+}
+
+.accordion-title:hover{
+	color: blue;
+}
+
