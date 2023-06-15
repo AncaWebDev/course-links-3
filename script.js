@@ -7,3 +7,6 @@
 // } else {
 // 	alert("Enjoy responsibly!");
 // }
+
+
+age = 10;
